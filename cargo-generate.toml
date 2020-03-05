@@ -1,0 +1,11 @@
+[template]
+include = [ "Cargo.toml"
+          , "rust-toolchain"
+          , ".rustfmt.toml"
+          , ".gitignore"
+          , ".vscode/launch.json"
+          , ".vscode/settings.json"
+          , "src/main.rs"
+          , "src/lib.rs"
+          ]
+#exclude = [ ]
