@@ -10,7 +10,7 @@
 
 ## License
 
-
+MIT
 
 ## Author
 
