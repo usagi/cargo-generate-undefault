@@ -16,12 +16,12 @@ build = [ ]
 [workspace]
 members = [ ]
 
-# [lib]
+# [[lib]]
 # crate-type = [ ]
 # name = "{{crate_name}}"
 # path = "src/lib.rs"
 
-# [bin]
+# [[bin]]
 # name = "{{crate_name}}"
 # path = "src/main.rs"
 
